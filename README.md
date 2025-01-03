@@ -1,4 +1,4 @@
-# aluraForo
+# AluraForo
 # Descripcion del proyecto
 
 Se crea un foro para que los estudiandes de alura puedan poner sus dudas e inquietudes del curso, para fortalecer su aprendizaje y enseñanzas con la colaboracion de los profesores 
