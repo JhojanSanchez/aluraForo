@@ -15,18 +15,28 @@ A continuacion se muestran las funcionalidades para la creacion del foro
 # Herramientas utilizadas
 
 Intellij idea
+
+
 ![images](https://github.com/user-attachments/assets/bd4364fd-8af5-49c4-a6e8-f73450391978)
 
 
 spring initializr
+
+
 ![images (1)](https://github.com/user-attachments/assets/8795a9e2-9fb7-47f6-a527-6f581c2097ca)
 
 
 Insomnia
+
+
 ![insomnia2202](https://github.com/user-attachments/assets/9a054fb3-4100-4c0c-bbfb-d53639745af0)
 
 mysql workbench
+
+
 ![e9bd82cf92894a080eb23a15c246c52b](https://github.com/user-attachments/assets/9e375647-7874-45ef-9c08-3cbde52d5154)
+
+
 
 
 
